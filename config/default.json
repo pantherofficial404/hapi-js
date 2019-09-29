@@ -1,0 +1,5 @@
+{
+  "port": 8080,
+  "db": "mongodb://admin:admin123@ds243717.mlab.com:43717/mernapp",
+  "secretKey": "mySecret"
+}
