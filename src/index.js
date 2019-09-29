@@ -10,7 +10,7 @@ absPath.addPath(__dirname);
 const { AuthValidator } = require('validators');
 
 const server = Hapi.server({
-  port: config.get('port')
+  port: process.env.PORT || config.get('port')
 });
 
 const init = (async () => {
