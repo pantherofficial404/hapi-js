@@ -13,7 +13,7 @@
     "nodemon": "^1.19.1"
   },
   "dependencies": {
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "@hapi/joi": "^16.1.4",
     "app-module-path": "^2.2.0",
     "boom": "^7.3.0",
